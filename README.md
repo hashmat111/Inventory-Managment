@@ -1,7 +1,9 @@
+# Project Name
 # Inventory-Managment
 
-# Project Name
-# My Portfolio
+Inventory Management System
+This project is an Inventory Management System built with Flutter and Firebase, providing the ability to manage product data (insert, update, delete, and view) while implementing user authentication (login, logout, and register) using Firebase Authentication.
+
 
 	⁠This![Simulator Screenshot - iPhone 15 Plus - 2024-09-19 at 13 52 46](https://github.com/user-attachments/assets/a6a477e1-cd0d-4cfb-ab85-a771ca8330ae)
  is second project in Microverse. This project is about building My portfolio website.
